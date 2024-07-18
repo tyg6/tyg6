@@ -1,6 +1,6 @@
 <div align="center">
 <!-- ![Tyg Liu](https://tyg6.com/img/logo_white_stamp3.png "Tyg Liu") -->
-<img src="https://tyg6.com/img/logo_tiger_ai.png" width="640">
+<img src="https://tyg6.com/img/logo_tiger_ai.png" width="320">
 
 👋 Hi, I’m Tyg Liu
 
